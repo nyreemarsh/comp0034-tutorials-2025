@@ -4,6 +4,6 @@ There is no single way to structure a FastAPI app, you may make different decisi
 
 The following is just one possible solution.
 
-[Week 7 branch](https://github.com/nicholsons/comp0034_tutorialapp_fastapi/tree/week7)
+[Week 7 branch](https://github.com/nicholsons/comp0034-tutorialapp-fastapi/tree/week7)
 
 **END**
